@@ -22,7 +22,7 @@ class Student {
     String squal = "Msc.Mathematics";
     String smobile = "91-9459407771";
     String semail = "Vipin@gmail.com";
-    String saddr = "anything is here";
+    String sAddr = "anything is here";
     public void getStudentDetils(){
         System.out.println("Student Detail");
         System.out.println("----------------");
@@ -31,7 +31,7 @@ class Student {
         System.out.println("Student Qualification" + squal);
         System.out.println("Student phone number :" + smobile);
         System.out.println("Student email :" + semail );
-        System.out.println("Student address :" + saddr);
+        System.out.println("Student address :" + sAddr);
         System.out.println("All Detail are here");
     }
 }
