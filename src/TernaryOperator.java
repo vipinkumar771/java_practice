@@ -1,5 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
 public class TernaryOperator {
     public static void main(String[] args) {
         int a = 10;

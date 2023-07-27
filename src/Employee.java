@@ -1,5 +1,3 @@
-import javax.lang.model.element.Name;
-
 public class Employee {
     int eno =111;
     String ename = "AAA";
